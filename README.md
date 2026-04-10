@@ -8,7 +8,7 @@ This AI agent answers questions about the content of a specific website URL.
 - Ollama installed and running
 
 ```bash
-ollama pull llama3.2:3b
+ollama pull llama3.2
 ```
 
 ## Setup
