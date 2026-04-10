@@ -1,4 +1,4 @@
-# Website Q&A Agent
+# Ask Agent
 
 This AI agent answers questions about the content of a specific website URL.
 
@@ -59,4 +59,3 @@ Agent: ...
 ```
 
 Type `exit` to quit.
-
